@@ -1,0 +1,16 @@
+Log Opened on: 24-06-2017 06:12:15
+Loading file: D:\Dev\OpenGL\ProjectReticle\ReticleRenderer\Reticle-0.0.6a-win-static\Reticle/Resources/Textures/default.tga
+Initializing GLFW.
+GLFW initialization complete.
+Creating window
+Created window
+Initializing GLEW.
+GLEW initialization complete.
+Loading texture uniforms: 
+:colorTexture:
+Loading texture uniforms: 
+:colorTexture:
+Stopping Renderer
+Breaking Out.
+Renderer Stopped
+Log closed.
